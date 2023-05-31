@@ -1,0 +1,7 @@
+{
+   "name":"Mineeeee Roy",
+   "email":"eurtsn3434@gmail.com",
+   "gender":"female",
+   "status":"active"
+   }
+   

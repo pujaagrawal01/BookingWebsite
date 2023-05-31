@@ -1,0 +1,7 @@
+{
+   "name":"Zee Matte",
+   "email":"Zeematte4653@gmail.com",
+   "gender":"male",
+   "status":"active"
+   }
+   

@@ -1,0 +1,7 @@
+{
+   "name":"Alan Hop",
+   "email":"alanhop9087@gmail.com",
+   "gender":"male",
+   "status":"active"
+   }
+   
